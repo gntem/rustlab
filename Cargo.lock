@@ -331,3 +331,7 @@ dependencies = [
  "serde",
  "serde_json",
 ]
+
+[[package]]
+name = "workshop4"
+version = "0.1.0"

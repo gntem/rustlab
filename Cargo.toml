@@ -3,5 +3,6 @@
 members = [
     "workshop1-nom",
     "workshop2-server-client",
-    "workshop3-macro-gen-packet"
+    "workshop3-macro-gen-packet",
+    "workshop4-invoker"
 ]
