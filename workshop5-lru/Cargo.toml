@@ -1,0 +1,6 @@
+[package]
+name = "workshop5-lru"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

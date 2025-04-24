@@ -4,5 +4,7 @@ members = [
     "workshop1-nom",
     "workshop2-server-client",
     "workshop3-macro-gen-packet",
-    "workshop4-invoker"
+    "workshop4-invoker",
+    "workshop5-lru",
+    "workshop6-iot-zeromq"
 ]
