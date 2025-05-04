@@ -6,5 +6,6 @@ members = [
     "workshop3-macro-gen-packet",
     "workshop4-invoker",
     "workshop5-lru",
-    "workshop6-iot-zeromq"
+    "workshop6-iot-zeromq",
+    "workshop7-tokio-state-channel",
 ]
