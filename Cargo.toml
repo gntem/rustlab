@@ -8,4 +8,5 @@ members = [
     "workshop5-lru",
     "workshop6-iot-zeromq",
     "workshop7-tokio-state-channel",
+    "workshop8-macro-logger",
 ]
